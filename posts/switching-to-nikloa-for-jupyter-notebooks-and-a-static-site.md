@@ -1,6 +1,6 @@
 <!--
 .. title: Switching to Nikloa for Jupyter Notebooks and a static site
-.. slug: switching-to-nikloa-for-jupyter-notebooks-and-a-static-site
+.. slug: switching-to-nikola-for-jupyter-notebooks-and-a-static-site
 .. date: 2017-10-12 13:52:49 UTC
 .. tags: 
 .. category: 
